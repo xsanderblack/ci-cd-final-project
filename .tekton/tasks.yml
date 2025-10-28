@@ -40,7 +40,7 @@ metadata:
   name: nose
 spec:
   workspaces:
-    - name: args
+    - name: sourcerce
   params:
     - name: args
       description: Arguments to pass to nose
